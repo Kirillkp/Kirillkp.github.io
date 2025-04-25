@@ -1,13 +1,15 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [{
-            "appID": "A3M4AY795P.com.renins.auto.dev",
-            "paths": ["*"]
-            },
-            {
-            "appID": "A3M4AY795P.com.renins.auto",
-            "paths": ["*"]
-        }]
-    }
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "A3M4AY795P.com.renins.auto.dev", "A3M4AY795P.com.renins.auto" ],
+             "components": [
+               {
+                  "*": "*",
+                  "comment": "Matches the GitHub.com landing page"
+               }
+             ]
+           }
+       ]
+   }
 }
