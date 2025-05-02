@@ -4,14 +4,10 @@
            {
              "appIDs": [ "A3M4AY795P.com.renins.auto.dev", "A3M4AY795P.com.renins.auto" ],
              "components": [
-             {
-               "/": "/main",
-               "comment": "Главная страница"
-             },
-             {
-               "/": "/notifications*",
-               "comment": "Страница уведомлений"
-             }
+                {
+                   "*": "*",
+                   "comment": "Matches the GitHub.com landing page"
+                }
              ]
            }
        ]
