@@ -5,7 +5,7 @@
              "appIDs": ["A3M4AY795P.com.renins.auto.dev", "A3M4AY795P.com.renins.auto"],
              "components": [
                 {
-                  "/": "/main",
+                  "/": "/main*",
                   "comment": "Главная страница"
                 },
                 {
