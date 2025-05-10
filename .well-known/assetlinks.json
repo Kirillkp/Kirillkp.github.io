@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.renins.auto.dev",
+      "sha256_cert_fingerprints": [
+        "DA:B9:80:D2:57:EC:88:EF:8D:21:8A:04:A8:5E:91:F1:8D:D5:F1:6B:2B:15:4D:3C:9D:99:BE:10:6D:58:A1:EB"
+      ]
+    }
+  }
+]
